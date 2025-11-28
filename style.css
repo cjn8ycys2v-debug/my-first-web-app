@@ -1,0 +1,24 @@
+
+body{
+    background-color:rgb(189, 228, 187);
+    background-size:auto;
+}
+
+h1{
+    display: flex;
+    color: rgb(245, 33, 33);
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    justify-content:center;
+}
+
+p{
+    display: flex;
+    color: purple;
+    font-size: 60px;
+    font-family:'Courier New', Courier, monospace;
+    justify-content:center;
+    align-items:flex-end;
+    
+    
+}
